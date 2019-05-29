@@ -1,3 +1,4 @@
+import 'dotenv/config';
 import cors from 'cors';
 import bodyParser from 'body-parser';
 import express from 'express';
@@ -47,7 +48,7 @@ const createUsersWithMessages = async () => {
     emails: ['jaime@gmail.com'],
     cc: [],
     bcc: [],
-    subject: 'First Email',
+    subject: 'First test',
     message: 'Message in test',
     images: [],
   });
