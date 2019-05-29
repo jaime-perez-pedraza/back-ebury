@@ -47,7 +47,7 @@ const createUsersWithMessages = async () => {
     emails: ['jaime@gmail.com'],
     cc: [],
     bcc: [],
-    subject: 'First test',
+    subject: 'First Email',
     message: 'Message in test',
     images: [],
   });
