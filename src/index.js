@@ -27,7 +27,7 @@ app.use(async (req, res, next) => {
 
 app.use('/messages', routes.message);
 app.get('/', (req, res) => {
-  res.send('hello');
+  res.send('hello im here');
 });
 
 // Start
