@@ -1,7 +1,7 @@
-**Back part, create with node.js and express**
+**· Back part, create with node.js and express**
 
-git clone https://github.com/Jamespajaro/back-ebury.git
+- git clone https://github.com/Jamespajaro/back-ebury.git
 
-npm install
+- npm install
 
-npm start
+- npm start
